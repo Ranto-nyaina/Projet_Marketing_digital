@@ -1,0 +1,6 @@
+Sale_ID,Product_ID,Customer_ID,Date,Quantity,Sale_Price,Channel,Revenue,Name,Age,Gender,Location,Join_Date,Total_Spent,Product_Name,Category,Price,Brand
+1,101,2001,2023-01-15,2,50.0,Online,100.0,Alice,28,Female,New York,2022-05-10,500.0,T-shirt,Clothing,25.0,Brand A
+2,102,2002,2023-01-16,1,75.0,In-Store,75.0,Bob,35,Male,Los Angeles,2022-06-15,750.0,Jeans,Clothing,75.0,Brand B
+3,103,2001,2023-01-17,3,30.0,Online,90.0,Alice,28,Female,New York,2022-05-10,500.0,Sneakers,Footwear,30.0,Brand C
+4,104,2003,2023-01-18,1,120.0,In-Store,120.0,Charlie,22,Male,Chicago,2022-07-20,300.0,Jacket,Outerwear,120.0,Brand D
+5,105,2004,2023-01-19,2,45.0,Online,90.0,Diana,30,Female,Houston,2022-08-25,600.0,Hat,Accessories,22.5,Brand E
