@@ -69,7 +69,7 @@ marketing-smd/
 ### 1. Cloner le projet
 
 ```bash
-git clone <URL_DU_REPOSITORY>
+git clone https://github.com/Ranto-nyaina/Projet_Marketing_digital
 cd marketing-smd
 ```
 
