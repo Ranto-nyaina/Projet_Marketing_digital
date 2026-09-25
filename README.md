@@ -69,8 +69,8 @@ marketing-smd/
 ### 1. Cloner le projet
 
 ```bash
-git clone https://github.com/Ranto-nyaina/Projet_Marketing_digital
-cd marketing-smd
+git clone https://github.com/Ranto-nyaina/Projet_Marketing_digital 
+cd Projet_Marketing_digital
 ```
 
 ### 2. Créer l'environnement virtuel
